@@ -1,0 +1,6 @@
+lung = int(input())
+arrayStr = input().strip().split(" ")
+arrayInt = map(int, arrayStr)
+print(arrayStr)
+print(arrayInt)
+print(list(arrayInt))
